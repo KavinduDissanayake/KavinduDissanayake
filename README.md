@@ -53,7 +53,7 @@
 
 <!-- [instagram]: https://www.instagram.com/chathura_sanjaya_rathnayaka -->
 
-<!-- [linkedin]: https://www.linkedin.com/in/chathura-rathnayaka-a6286a19a/ -->
+ [linkedin]: https://www.linkedin.com/in/kavindu-dissanayake-92a8791b4/ 
 
 
 

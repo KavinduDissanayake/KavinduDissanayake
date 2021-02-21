@@ -12,49 +12,14 @@
 
 ### Connect with me:
 
-<!-- [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-<!-- [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] -->
- [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-<!-- [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] -->
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
 <br />
 
----
-
-<!--## 📊 Skills-->
-<!--START_SECTION:waka-->
-
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KavinduDissanayake&layout=compact)](https://github.com/KavinduDissanayake/github-readme-stats)-->
-
-<!--END_SECTION:waka-->
-
-<!--<br />-->
-
-<!--### 📺 Latest YouTube Videos-->
-<!-- YOUTUBE:START -->
-
-<!-- YOUTUBE:END -->
-
----
-
-<!-- <img align="left" alt="CreatorGhost's Github Stats" src="https://github-readme-stats.vercel.app/api?username=KavinduDissanayake&show_icons=true&hide_border=true" />-->
-
-
-
-
-
-[website]: https://freesourcecodelk.blogspot.com
-
-<!-- [twitter]: https://twitter.com/Rathnayaka22700 -->
-
+[website]: http://kavindudissanayake.me/
 [youtube]: https://www.youtube.com/channel/UCLugwjhSFrmI6qxOUzwLGbw?view_as=subscriber
-
-<!-- [instagram]: https://www.instagram.com/chathura_sanjaya_rathnayaka -->
-
- [linkedin]: https://www.linkedin.com/in/kavindu-dissanayake-92a8791b4/ 
-
-
-
+[linkedin]: https://www.linkedin.com/in/kavindu-dissanayake-92a8791b4/ 
 [SL Coding Hub]: https://www.youtube.com/channel/UCLugwjhSFrmI6qxOUzwLGbw?view_as=subscriber

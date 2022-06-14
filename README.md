@@ -1,4 +1,4 @@
-### Hi there, I'm Kavind Dissanyake 👋 | You may also know me by [SL Coding Hub] 😉
+### Hi there, I'm Kavind Dissanyake 👋  😉
 
 ## I'm a Mobile Developer, and University Student!
 - 🔭 I’m currently studying NSBM University!
